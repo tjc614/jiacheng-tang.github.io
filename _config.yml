@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Fan's Page"
 title_separator          : "-"
-name                     : &name "Fan Gao"
+name                     : &name "Fan Gao 高帆"
 description              : &description "personal description"
 url                      : https://astridesa.github.io/fan-gao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   bio              : ""
   location         : "Tokyo, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TqvMfmoAAAAJ&hl=zh-CN"
   email            : "fangao0802@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
