@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Fan's Page"
 title_separator          : "-"
-name                     : &name "Fan Gao 高帆"
+name                     : &name "Fan"
 description              : &description "personal description"
 url                      : https://astridesa.github.io/fan-gao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
