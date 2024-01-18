@@ -55,6 +55,6 @@ Yan Lyu, **Fan Gao**, I-Shuen Wu, Brian Y Lim
 Miscellaneous
 ------
 * I am a photography lover
-* I enjoy playing games (Genshin!) in my free time
+* I enjoy playing games (Genshin Impact!) in my free time
 * I can speak Cantonese, Mandarin, English, Japanese
 
