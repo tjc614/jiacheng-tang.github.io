@@ -14,7 +14,7 @@ Hello! I am **Fan Gao (高帆)**, a Master student in [Okumura-Funokoshi Lab](ht
 
 Research Interest
 ------
-My current research interests focus on the fields of **Multimoal Artificial Intelligence**, **Natural Language Processing** and **Graph Learning**. I also have a special interest in **Human-Computer Interaction (HCI)** combined with AI technologies. Previously, I have also done research in **Knowledge Graph Alignment** and **Large Language Models Evaluation**.
+My current research interests focus on the fields of **Multimoal Artificial Intelligence**, **Natural Language Processing** and **Graph Learning**. Previously, I have also done research in **Knowledge Graph Alignment**, **Large Language Models Evaluation**, and **Human Computer Interaction** combined with AI technologies.
 
 
 Experience
