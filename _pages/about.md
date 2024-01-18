@@ -27,21 +27,25 @@ Experience
 
 Publications & Projects
 ------
+
 ### 2024
 * Intraoperative Image add 3D Brain Models Registration     
   Ding Xia, Heng Fang, **Fan Gao**, Anran Qi, Xi Yang, Kin Taichi, Takeo Igarashi     
   **Under Preparation**
+
 ### 2023
 * Multi-lingual Transfer for Cross-lingual Entity Alignment    
   **Fan Gao**, Ding Xia, Manabu Okumura    
   **Under Reivew**
 * [Large Language Models on Wikipedia-Style Survey Generation: an Evaluation in NLP Concepts](https://arxiv.org/abs/2308.10410)    
   **Fan Gao**, Hang Jiang, Moritz Blum, Jinghui Lu, Dairui Liu, Yuang Jiang, Irene Li     
-  **Under Review**    
+  **Under Review**
+   
 ### 2022
 * [DOMFN: A Divergence-Orientated Multi-Modal Fusion Network for Resume Assessment](https://dl.acm.org/doi/abs/10.1145/3503161.3548203)    
   Yang Yang, JingShuai Zhang, **Fan Gao**, Xiaoru Gao and Hengshu Zhu    
-  **ACM International Conference on Multimedia**    
+  **ACM International Conference on Multimedia**
+  
 ### 2020
 * [I'mma Sort by two or more attributes with Interetable Monotonic Multi-Attribute Sorting](https://ubiquitous.comp.nus.edu.sg/wp-content/uploads/2020/12/tvcg2020-imma-sort.pdf)  
 Yan Lyu, **Fan Gao**, I-Shuen Wu, Brian Y Lim   
