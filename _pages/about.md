@@ -20,17 +20,12 @@ My current research interests focus on the fields of **Natural Language Processi
 Experience
 ------
 * 2022.09 - 2023.11 Corpy&Co., Inc, Tokyo
-* 2021.09 - 2022.04 Talent Intelligence Center, Baidu, China, supervised by [Hengshu Zhu](https://www.zhuhengshu.com/), Jingshuai Zhang and [Yang Yang](http://www.njustkmg.cn/)
+* 2021.09 - 2022.04 Talent Intelligence Center, Baidu, China, supervised by [Hengshu Zhu](https://www.zhuhengshu.com/), [Jingshuai Zhang](https://scholar.google.com/citations?user=xfpgoz4AAAAJ&hl=zh-CN) and [Yang Yang](http://www.njustkmg.cn/)
 * 2020.09 - 2021.05 NLP Research Group, iFlytek Co.Ltd, China
 
 
 Publications & Projects
 ------
-
-### 2024
-* Intraoperative Image add 3D Brain Models Registration     
-  Ding Xia, Heng Fang, **Fan Gao**, Anran Qi, Xi Yang, Kin Taichi, Takeo Igarashi     
-  **Under Preparation**
 
 ### 2023
 * Multi-lingual Transfer for Cross-lingual Entity Alignment    
