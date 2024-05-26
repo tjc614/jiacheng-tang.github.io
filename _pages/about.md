@@ -14,7 +14,7 @@ Hello! I am **Fan Gao (高帆)**, a Master's student at [Tokyo Institute of Tech
 
 Research Interest
 ------
-My current research interests focus on the fields of **Human-Computer Interaction** combined with AI technologies, **Multimoal Artificial Intelligence**, and **Natural Language Processing**. Previously, I have also done research in **Knowledge Graph**, **Large Language Models Evaluation**.
+My current research interests focus on the fields of **Natural Language Processing**, **Multimoal Artificial Intelligence**, and **Large Language Model**. Previously, I have also done research in **Knowledge Graph**, **Human Computer Interactioin** combined with AI technologies**.
 
 
 Experience
