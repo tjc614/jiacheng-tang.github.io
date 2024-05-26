@@ -27,7 +27,7 @@ Experience
 Publications & Projects
 ------
 
-### 2023
+### 2024
 * Multi-lingual Transfer for Cross-lingual Entity Alignment    
   **Fan Gao**, Ding Xia, Manabu Okumura    
   **Under Reivew**
