@@ -16,14 +16,13 @@ I completed my B.Eng at [Jiangsu Ocean University](https://www.jou.edu.cn/).
 
 Research Interest
 ------
-My current research interests focus on the fields of **Natural Language Processing**, **Multimoal Artificial Intelligence**, and **Large Language Model**. Previously, I have also done research in **Knowledge Graph**, **Human Computer Interactioin** combined with AI technologies.
+My current research interests focus on the fields of **Natural Language Processing**, **Multimoal Artificial Intelligence**, **Machine Learning**, **time series analysis**, and **Large Language Models**. Previously, I have also done research in **Knowledge Graph**, **Human Computer Interactioin** combined with AI technologies.
 
 
 Experience
 ------
-* 2022.09 - 2023.11 Corpy&Co., Inc, Tokyo
-* 2021.09 - 2022.04 Talent Intelligence Center, Baidu, China, supervised by [Hengshu Zhu](https://www.zhuhengshu.com/), [Jingshuai Zhang](https://scholar.google.com/citations?user=xfpgoz4AAAAJ&hl=zh-CN) and [Yang Yang](http://www.njustkmg.cn/)
-* 2020.09 - 2021.05 NLP Research Group, iFlytek Co.Ltd, China
+* 2024.06 - Now Corpy&Co., Inc, Tokyo
+* 2023.09 - Now School of Information Science and Engineering, Shandong Normal University, China; Shandong Provincial Key Laboratory for Novel Distributed Computer Software Technology, Jinan
 
 
 ### Publications & Projects
