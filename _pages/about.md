@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hello! I am **Fan Gao (高帆)**, a Master's student at [Tokyo Institute of Technology](https://www.titech.ac.jp/english). I also spend my time as a research assistant at [University of Tokyo](https://www.u-tokyo.ac.jp/en/), supervised by [Irene Li](https://ireneli.eu/). I completed my B.Eng at [South China University of Technology](https://www.scut.edu.cn/en/), where I worked closely with [Lingyu Liang](https://lianglysky.github.io/LY-Liang/). During my third and fourth years of undergraduate, I was a visiting student in the [Ubicomp Lab](https://ubiquitous.comp.nus.edu.sg/) at the [National University of Singapore](https://nus.edu.sg/), worked with [Brian Lim](https://www.brianlim.net/) and [Yan Lyu](https://cse.seu.edu.cn/2020/1029/c23024a351517/pagem.htm).
+Hello! I am **Jiacheng Tang (高帆)**, a Master's student at [Tokyo Institute of Technology](https://www.titech.ac.jp/english). I also spend my time as a research assistant at [University of Tokyo](https://www.u-tokyo.ac.jp/en/), supervised by [Irene Li](https://ireneli.eu/). I completed my B.Eng at [South China University of Technology](https://www.scut.edu.cn/en/), where I worked closely with [Lingyu Liang](https://lianglysky.github.io/LY-Liang/). During my third and fourth years of undergraduate, I was a visiting student in the [Ubicomp Lab](https://ubiquitous.comp.nus.edu.sg/) at the [National University of Singapore](https://nus.edu.sg/), worked with [Brian Lim](https://www.brianlim.net/) and [Yan Lyu](https://cse.seu.edu.cn/2020/1029/c23024a351517/pagem.htm).
 
 Research Interest
 ------
