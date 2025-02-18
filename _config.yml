@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fan's Page"
+title                    : "Jiacheng's Page"
 title_separator          : "-"
-name                     : &name "Fan Gao"
+name                     : &name "Jiacheng Tang"
 description              : &description "personal description"
-url                      : https://astridesa.github.io/fan-gao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tjc614.github.io/jiacheng-tang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "/astridesa/fan-gao.github.io"
+repository               : "/tjc614/jiacheng-tang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
