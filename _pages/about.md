@@ -24,28 +24,25 @@ Experience
 * 2020.09 - 2021.05 NLP Research Group, iFlytek Co.Ltd, China
 
 
-Publications & Projects
+### Publications & Projects
 ------
 
-### 2024
-* Multi-lingual Transfer for Cross-lingual Entity Alignment    
-  **Fan Gao**, Ding Xia, Manabu Okumura    
-  **Under Reivew**
-* [Large Language Models on Wikipedia-Style Survey Generation: an Evaluation in NLP Concepts](https://arxiv.org/abs/2308.10410)    
-  **Fan Gao**, Hang Jiang, Moritz Blum, Jinghui Lu, Dairui Liu, Yuang Jiang, Irene Li     
-  **Under Review**
-   
-### 2022
-* [DOMFN: A Divergence-Orientated Multi-Modal Fusion Network for Resume Assessment](https://dl.acm.org/doi/abs/10.1145/3503161.3548203)    
-  Yang Yang, JingShuai Zhang, **Fan Gao**, Xiaoru Gao and Hengshu Zhu    
-  **ACM International Conference on Multimedia**
-  
-### 2020
-* [I'mma Sort by two or more attributes with Interetable Monotonic Multi-Attribute Sorting](https://ubiquitous.comp.nus.edu.sg/wp-content/uploads/2020/12/tvcg2020-imma-sort.pdf)  
-Yan Lyu, **Fan Gao**, I-Shuen Wu, Brian Y Lim   
-**IEEE Transactions on Visualization and Computer Graphics**   
-  
+### 2025
+* [Enhancing Participatory Development Research in South Asia through LLM Agents System: An Empirically-Grounded Methodological Initiative from Field Evidence in Sri Lanka](https://arxiv.org/abs/2411.08294)  
+  Xinjie Zhao, Hao Wang, Shyaman Maduranga Sriwarnasinghe, **Jiacheng Tang**, Shiyun Wang, Sayaka Sugiyama, So Morikawa  
+  **Proceedings of the First Workshop on Natural Language Processing for Indo-Aryan and Dravidian Languages**
 
+* [Mapping Non-Profits Participation in Disaster Mitigation: A Data-Driven Study of Functional Diversity, Spatial Patterns and Driving Factors of China's Emergency Management Nonprofit Organizations](https://doi.org/10.1016/j.ijdrr.2025.105252)  
+  Xinjie Zhao, Hao Wang, So Morikawa, Shiyun Wang, **Jiacheng Tang**, Sayaka Sugiyama, Shyaman Maduranga Sriwarnasinghe  
+  **International Journal of Disaster Risk Reduction** (Elsevier)
+
+### 2024
+* [Collaborative Participatory Research with LLM Agents in South Asia: An Empirically-Grounded Methodological Initiative and Agenda from Field Evidence in Sri Lanka](https://arxiv.org/abs/2411.08294)  
+  Xinjie Zhao, Shyaman Maduranga Sriwarnasinghe, **Jiacheng Tang**, Shiyun Wang, Hao Wang, So Morikawa  
+  **arXiv preprint**
+
+
+  
 
 Miscellaneous
 ------
