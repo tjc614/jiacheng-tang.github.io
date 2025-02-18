@@ -46,7 +46,7 @@ Experience
 
 Miscellaneous
 ------
-* I am a photography lover
-* I enjoy playing games (Genshin Impact!) in my free time
-* I can speak Cantonese, Mandarin, English, Japanese
+* I am a basketball lover
+* I enjoy playing games (NBA 2K!) in my free time
+* I can speak Wu dialect, Mandarin, English
 
