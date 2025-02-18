@@ -14,7 +14,7 @@ Hello! I am **Jiacheng Tang (汤嘉诚)**, a Master's student at [Shandong Norma
 
 Research Interest
 ------
-My current research interests focus on the fields of **Natural Language Processing**, **Multimoal Artificial Intelligence**, and **Large Language Model**. Previously, I have also done research in **Knowledge Graph**, **Human Computer Interactioin** combined with AI technologies**.
+My current research interests focus on the fields of **Natural Language Processing**, **Multimoal Artificial Intelligence**, and **Large Language Model**. Previously, I have also done research in **Knowledge Graph**, **Human Computer Interactioin** combined with AI technologies.
 
 
 Experience
